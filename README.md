@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Keith Murunga's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hi, I'm Keith Chris Murunga 👋
 
 **Data Analyst & Data Scientist** | Aspiring Software Engineer | Founder, **InsightGrid Analytics** | Nairobi, Kenya 🇰🇪
@@ -27,19 +33,30 @@ I build data-driven solutions — from predictive models to full analytics pipel
 ### 🚀 About me
 
 - 🏢 Founder & CEO of **InsightGrid Analytics** — a Nairobi-based data analytics and business intelligence practice
-- 🎓 Data Science Nanodegree student at **Moringa School**
+- 🎓 Data Science Nanodegree graduate of **Moringa School**
 - 💻 Building software engineering fundamentals — Git/GitHub workflows, collaborative development, and clean code practices — alongside data science
 - 📜 Working toward **Azure AI Engineer Associate** certification (Microsoft AI National Skilling Programme)
 - 🌍 Native Kiswahili speaker, C1 Advanced English, conversational French
 
 ### 📌 A few projects I'm proud of
 
-- **[Customer Churn Analysis](https://github.com/chriskeithmurunga-creator/CAPSTONE-PROJECT-1-Intro-to-DS-)** — End-to-end churn prediction for a Kenyan telecom, from EDA through predictive modeling
-- **Speech-to-USSD** (team project) — Built the intent classification module for a Swahili voice-to-USSD pipeline for mobile money access
+- **Speech-to-USSD (Sauti Pesa)**: team project that turns Swahili voice commands into M-Pesa USSD menu navigation (Whisper ASR, intent classification, slot extraction). I built the intent classification module.
+- **NiaPredict**: Moringa capstone, a maternal and child health risk early-warning system for Kenyan counties using KDHS 2022 and KHIS data (Random Forest, XGBoost, SHAP, Streamlit)
+- **Nairobi Air Quality Intelligence Dashboard**: PM2.5 hotspot map and prediction model for Nairobi (Streamlit, Folium, Random Forest)
+- **[Customer Churn Analysis](https://github.com/chriskeithmurunga-creator/CAPSTONE-PROJECT-1-Intro-to-DS-)**: end-to-end churn prediction for a Kenyan telecom, from EDA to predictive modeling
+-  **[Customer Churn Analysis](https://github.com/chriskeithmurunga-creator/CAPSTONE-PROJECT-1-Intro-to-DS-)** — End-to-end churn prediction for a Kenyan telecom, from EDA through predictive modeling
 - **[Jet Airlines Safety Analysis](https://github.com/chriskeithmurunga-creator/summartive_lab_Jet_airlines_analysis_CHRIS_M)** — Analysis of commercial and passenger jet airline safety data
 
 ### 📫 Let's connect
 
+- 📧 chriskeithmurunga@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/keithchrismurunga)
+- 📊 [Data Science Portfolio](https://www.datascienceportfol.io/chriskeithmurunga)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~01225bc9338153e406?viewMode=1)
+- 🏢 [InsightGrid Analytics](https://app-dymghylpv6kh.appmedo.com): Nairobi, Kenya
+- 📸 [InsightGrid on Instagram](https://www.instagram.com/insightgrid.analytics/)
+- 👍 [InsightGrid on Facebook](https://www.facebook.com/profile.php?id=61590374305195)
+- 
 - 💼 InsightGrid Analytics — Nairobi, Kenya
 - 📍 Based in Kasarani, Nairobi
 
