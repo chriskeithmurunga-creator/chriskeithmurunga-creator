@@ -60,7 +60,7 @@ I build data-driven solutions — from predictive models to full analytics pipel
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590374305195)
 - 
 - 💼 InsightGrid Analytics — Nairobi, Kenya
-- 📍 Based in Kasarani, Nairobi
+- 📍 Based in Nairobi , Kenya
 
 ---
 
